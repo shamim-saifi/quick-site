@@ -46,6 +46,6 @@
     ]
   },
 
-  "proxy": "https://quick-server-iota.vercel.app"
+  "proxy": "https://quick-server-iota.vercel.app/api/"
   
 }
