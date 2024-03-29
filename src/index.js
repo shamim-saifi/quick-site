@@ -12,7 +12,7 @@ const container = document.getElementById('root');
 const root = ReactDOM.createRoot(container);
 // "proxy":"http://localhost:1000/",
 // export const server = '/api';
-export const server = 'http://localhost:5000/api';
+export const server = 'https://quick-server-iota.vercel.app/api';
 
 
 // 2. Add your color mode config
