@@ -36,7 +36,7 @@ const InvoiceTemplateOne = ({
   const InvoiceDataHandler=async()=>{
     
     await dispatch(CreateInvoice(invoiceNumber, totalAmountWithTax, invoiceDate, invoiceItem, ClientCompanyName))
-    window.print()
+    window.print() 
     navigate('/profile')
 }
 
