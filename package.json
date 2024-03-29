@@ -46,6 +46,6 @@
     ]
   },
 
-  "proxy": "https://localhost:5000"
+  "proxy": "https://quick-server-iota.vercel.app"
   
 }
